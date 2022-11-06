@@ -1,4 +1,4 @@
-###### Hi there I'm Michel 👋
+# Hi there I'm Michel 👋
 
 <!--
 **michobc/michobc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
