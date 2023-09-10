@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-- 🔭 I’m currently working on OOP in C++<br>
-- 🌱 I’m currently learning jest unit testing, C++<br>
-- 💬 Ask me about VUE.JS , automated unit tests
+- 🔭 I’m currently working on OOP, and Arduino project<br>
+- 🌱 I’m currently learning java, C++, web dev, AI<br>
 
 
 ## 🌐 Socials:
