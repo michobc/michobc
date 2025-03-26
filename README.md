@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-- 🔭 I’m currently working on OOP, and Arduino project<br>
-- 🌱 I’m currently learning java, C++, web dev, AI<br>
+- 🌱 I’m currently learning java, C++, AI Agents, Prompt eng.<br>
 
 
 ## 🌐 Socials:
